@@ -1,0 +1,13 @@
+{
+  "name": "torn-gym-sim-agent",
+  "version": "1.0.0",
+  "description": "Agent-friendly Torn gym simulation toolkit",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0"
+  }
+}
