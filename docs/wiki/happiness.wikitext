@@ -1,0 +1,255 @@
+<!-- Retrieved: 2026-01-03 from https://wiki.torn.com/wiki/Happiness -->
+
+Happy or happiness plays a role in all aspects of the game, although the precise extent of its influence in most areas remains uncertain.
+
+Your current happy status is represented by the ''yellow'' bar in your Information sidebar panel with timer next to it showing time until next happy increase.
+<div>
+[[File:Happy 2.png]]</div>
+<i style="font-size: 13px;">A player with maximum base happiness of 5025, with a timer indicating 14 minutes and 57 seconds until the next increment of happiness by 5.</i>
+
+<div class="alert alert-info">{{{1|It's possible to surpass your maximum base happiness, but remember, that your happy resets every fifteen minutes on the hour at xx:15, xx:30, xx:45, and xx:00.}}}</div>
+<div>
+[[File:Happy above maximum.png]]
+</div>
+<i style="font-size: 13px;">A player with happiness temporarily above maximum, with a timer indicating 9 minutes and 4 seconds until happiness resets back to maximum.</i>
+
+Always check the time before undertaking actions that increase happiness beyond its maximum.
+
+Temporary maximum happiness one can achieve is 99999. Reaching this for the first time will also reward player with the award.
+== Using Happy ==
+
+Happy plays a role in all aspects of the game.
+
+However, it's primarily used or maintained for improved gym gains. Happy significantly impacts gym gains, especially when your stats are at a lower level.
+
+In [[Crimes 1.0]], happiness increased success rates, but the effect wouldn't have been that noticeable. Within [[Crimes 2.0]], happiness increases crime skill and experience gains, not success rates. The exact amount that happiness improves gains has not been revealed.
+Source: https://www.torn.com/newspaper.php#!/articles/2552
+
+== Increasing Base Happy ==
+
+All players start with a base happy 100.
+
+Purchasing or renting [[Property]] from [[Estate Agents]] and hiring staff increases your base maximum happiness.
+
+{| class="prettyTable"
+! Property !! Happy ( with staff )
+|-
+| Shack || 100
+|-
+| Trailer || 165
+|-
+| Apartment || 188
+|-
+| Semi-Detached House || 275
+|-
+| Detached House || 500
+|-
+| Beach House || 650
+|-
+| Chalet || 725
+|-
+| Villa || 800
+|-
+| Penthouse || 1,150
+|-
+| Mansion || 1,725
+|-
+| Ranch || 1,925
+|-
+| Palace || 2,550
+|-
+| Castle || 3,475
+|-
+| Private Island || 5,025
+|}
+
+== Obtaining Happy ==
+
+Your happy bar will replenish at a rate 5 happy every 15 minutes( or 480 happy in 24 hours) until it's base maximum.
+
+Various additional items exist that can assist in restoring or temporarily exceeding the base maximum level of happiness.
+
+{| class="prettyTable"
+! Item !! Details
+|-
+| [[Box of Tissues]] || 5 to 20 happy up to 20% of maximum happy
+|-
+| [[Erotic DVD]] || 2500; or 5000 when working at 10* [[Adult Novelties]]
+|-
+| [[Yellow Easter Egg]] || 10000 happy, adds 6 hour booster cooldown; untradeable item found during [[Easter Egg Hunt]] event.
+|-
+| [[Feathery Hotel Coupon]] || 500 happy, adds 6 hour booster cooldown
+|-
+| [[Ecstasy]] || Doubles Happy, adds 200 to 231 minutes of drug cooldown.
+|-
+| [[Switzerland|Rehab]] || Travelling to [[Switzerland]] and rehabbing at cost of $250,000, but you need to be under drug addiction
+|-
+| [[Stock_Market#Summary_Table|EVL stock block]] || You can collect 1000 happy every 7 days for every EVL block you own
+|-
+| [[Strippogram Voucher]] || Increases a target's happiness by 2,500.
+|-
+| [[Poison Mistletoe]] || Decreases a target's happiness by 25%, increasing your happiness by the same amount.
+|-
+| [[Game Console]] || Converts 1, 3 or 5 energy into happiness. Companies like [[Game Shop]] or [[Toy Shop]] special doubles happy gains from Game Console.
+|-
+| [[Television]]|| Converts 1, 3 or 5 energy into happiness.
+|-
+| [[CD Player]] || Converts 1, 3 or 5 energy into happiness.
+|-
+| [[MP3 Player]] || Converts 1, 3 or 5 energy into happiness.
+|-
+| [[Pink Mac-10]] with [[Weapon Bonus|Emasculate]] || When used on finishing hit you gain 15%/16% of your base maximum happy.
+|-
+| [[Torn Anniversary]] || Clicking the R of the TORN logo during the [[Torn Anniversary]] event provides the user with 500 happy. This action has a cooldown of 15 minutes between uses and 10 total uses.
+|-
+| [[Trick or Treat|Exchanging your treats]] || When exchanging your treats obtained from [[Trick or Treat]] event and when you have a Tier III upgrade named "Save Your Tears", you'll receive +500 happiness for every treat exchanged.
+|-
+| Various companies || See below.
+|-
+| Various candies || Between 25 to 250 happy. See below.
+|-
+| Various drugs || Between 50 to 500. See below
+|-
+| Standard [[Properties]] || Increase maximum base happiness from 100 to 5025, while hiring staff in those properties.
+|}
+
+== Losing Happy ==
+
+With each battle stat train in a gym, you will lose some happy. The amount of happy loss is 40-60% of the energy used per train. Happy loss can be reduced by 50%  with 3* [[Fitness Center]] passive Goal Oriented.
+
+<i>Log example: You used 400 energy and 210 happiness training your dexterity.</i>
+
+There are also multiple mechanics that may cause a loss of happy.
+
+* Overdosing on drugs like [[Ecstasy]], [[Ketamine]], [[PCP]], [[Shrooms]], [[Speed]], [[Xanax]] will cause your happy bar to be completely emptied.
+
+* Overdosing on [[Vicodin]] you lose 150 happiness and overdosing on [[LSD]] you lose 50% happiness.
+
+* Opening a [[Parcel]] that contains a [[Horse's Head]] will empty your happy bar.
+
+* 3* [[Oil Rig]] special Embargo can be used to halve target's happiness.
+
+* [[Stink Bomb]] decreases occupant's happiness by 20% if successfully used on their property.
+
+* [[Dog Poop]] decreases occupant's happiness by 20% if successfully used on their property.
+
+* [[Toilet Paper]] decreases occupant's happiness by 20% if successfully used on their property.
+
+* [[Poison Mistletoe]] decreases a target's happiness by 25%, increasing your happiness by the same amount.
+
+* When [[Christmas Cracker]] is used on a target, provides gifts to one, and a 5% happiness decrease to the other.
+* When [[Dirty Bomb]] is dropped on a faction, then it's member's happiness is set to 0(along with nerve and energy). Equipped [[Hazmat Suit]] will mitigate these effects.
+* If a property's fees build up too much, then after a certain threshold of unpaid fees, the maximum happiness that the property provides will gradually decrease - all the way to 0 over a long period of time.
+*:- <i>For example: having over 50 million of unpaid fees while living in Private Island will cause 1% drop of maximum happy. At 250 million of unpaid fees your happy will be 0. <ref>bug report https://www.torn.com/forums.php#/p=threads&f=19&t=16389947&b=0&a=0&to=24579552</ref></i>
+
+== Candies ==
+Consuming Candies will provide various amount happy and give 30 minutes of [[Booster Cooldown]].
+
+Happy gain from Candies is improved during [[Current_Events#Special_Events|World Diabetes Day]], using the [[Book : Yes Please Diabetes]] and via [[Faction#Voracity|Faction Voracity Special Candy effect]]. All these can be combined for 9 x happy increase when eating candy.
+{{Candy}}
+
+== Company Specials ==
+Following company specials provide happiness in various amounts if job points are exchanged.
+
+{| class="prettyTable sortable"
+! Company !! Happy Amount !! Special !! Job Points
+|-
+| 10* [[Sweet Shop]] || 4,500 happiness || Voracious || 30
+|-
+| 5* [[Sweet Shop]] || 1,000 happiness || Gluttony || 10
+|-
+| 3* [[Amusement Park]] || 250 happiness for target || Free Ride || 10
+|-
+| 1* [[Candle Shop]] || 50 happiness || Warming Therapy || 1
+|-
+| 1* [[Farm]] || 50 happiness || Fullfillment || 1
+|-
+| 1* [[Music Store]] || 50 happiness || Ambience || 1
+|-
+| 3* [[Property Broker]] || 50 happiness || Job Satisfaction || 1
+|-
+| 1* [[Sweet Shop]] || 50 happiness || Sweet Tooth || 1
+|-
+| 1* [[Toy Shop]] || 50 happiness || Memory Lane || 1
+|-
+| 1* [[Zoo]] || 50 happiness || Fulfillment || 1
+|-
+| 10* [[Game Shop]] || 50 happiness(along with 1 nerve and 5 energy) || Overpowered || 1
+|-
+| 1* [[Gents Strip Club]] || 50 happiness || Happy Ending || 1
+|-
+| 1* [[Ladies Strip Club]] || 50 happiness || Hot Flush || 1
+|-
+| 3* [[Fitness Center]] || 50% reduction of happiness loss in gym || Goal Oriented || passive
+|-
+| 5* [[Toy Shop]] ||100% console happiness || Gamer || passive
+|-
+| 5* [[Game Shop]] || 100% console happiness || Gamer || passive
+|}
+
+== Drugs ==
+
+{| class="prettyTable"
+! Drug !! Happy gain
+|-
+| [[Ecstasy]] || Doubles happiness
+|-
+| [[Xanax]]|| +250 happiness
+|-
+| [[LSD]]|| +200 to +500 happiness
+|-
+| [[PCP]]|| +250 Happiness
+|-
+| [[Shrooms]]|| +500 happy
+|-
+| [[Vicodin]]|| +75 happy
+|-
+| [[Speed]]|| +50 happy
+|}
+
+== Related Books ==
+
+{| class="prettyTable"
+! Book !! Effect
+|-
+| [[Book : Yes Please Diabetes]] || Doubles candy effects for 31 days.
+|-
+| [[Book : Ignorance Is Bliss]] || Happiness can regenerate above maximum for 31 days
+|}
+
+== Special Events ==
+
+{| class="prettyTable"
+! Date !! Name !! Effect
+|-
+| November 13th - 15th || [[Current_Events#Special_Events|World Diabetes Day]] || 3x happy gain from eating candy
+|}
+
+World Diabetes Day offers 3x gains from eating candy, and when paired with the "Yes Please Diabetes" book for 2x gains, along with [[Faction#Voracity|Faction Voracity Candy effects]] at 50% bonus, you have the opportunity to potentially increase your happiness gain from candy by 9 times.
+
+<i>Lollipop at 25 base happy gives 225 happy.</i>
+
+== Related Awards ==
+
+{| class="prettyTable
+!style="width:25%"|Honor Bar Image
+!style="width:22%"|Name
+!style="width:33%"|Requirements
+|-
+|{{AwrdImg|380|Ecstatic}}||Ecstatic||Achieve the maximum of 99,999 happiness
+|}
+
+== Patch History ==
+
+{{Patch History|0}}
+
+;{{f|15950650|Happiness changes: 01/09/15}}
+* You can now achieve a maximum happiness of 99,999. Before, the imposed limit was 32,767 for technical reasons.
+* Happiness now has more of an effect on gym gains, so it'll become noticeable when you upgrade your property or overdose. This should be very noticeable in the 0 - 5000 happiness range, and less noticeable with more and more happiness. Any perks or bonuses you have that increase stat gains, will also increase this new effect.
+
+;{{f|15932864|Medical 2.0: 25/02/15}}
+* Happiness now shows duration until expiry when over full.
+
+== References ==
+
+<references />

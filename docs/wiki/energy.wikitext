@@ -1,0 +1,83 @@
+<!-- Retrieved: 2026-01-03 from https://wiki.torn.com/wiki/Energy -->
+
+'''Energy''' is a finite resource that can be used to perform a number of different activities throughout the game. Your current energy status is represented by the ''green'' bar in your '''Information''' sidebar panel.
+
+
+== Obtaining Energy ==
+
+Your energy bar will replenish at a rate that completely fills it to "Maximum" every five hours. Depending on your donator status, this means either 5 energy every 10 minutes (up to 150), or 5 energy every 15 minutes (up to 100). Beyond this, there are several additional ways to obtain energy:
+
+* The [[Drugs]] '''Xanax''' and '''LSD''' provide 250 and 50 energy respectively, provided you don't overdose.
+
+* A [[Point]] refill can be used once a day to fill your energy bar up to its maximum.
+
+* Energy Cans provide between 5 and 30 energy (base) and increase your booster cooldown by two hours.
+
+* [[Feathery Hotel Coupon|Feathery Hotel Coupons]] provide a refill to your energy bar and increase your booster cooldown by six hours.
+
+* Mc Smoogle Corp(MSC) provides 100 energy for every stock block you own up to 1000 energy. You can collect this every 7 days.
+
+* Inactivity refills are free refills that are earned for every week of inactivity from Torn, as an incentive for players to return to the game. The maximum amount of inactive refills one can obtain is 100, down from 250<ref>Chedburn,  {{f|16195202|Patch list #167}} (10/11/20)</ref> and 1000<ref>Chedburn, {{f|16010606|Patch list #1}} (20/06/17)</ref> in the past. The exact requirements for obtaining inactivity refills are not made public.<ref>Cloudjumper {{f|16465476|Refills?}} (25/04/25)</ref>
+**A maximum of 100 special energy refills can be used per week.
+
+* Many Company specials allow players to exchange Job Points for energy. Players are limited to exchanging 100 JP per day on energy-granting specials. This daily limit is reset at 00:00 TCT every day.
+** The 1* [[Furniture Store]] special "Coffee Break" gives ''+3 Energy'' for 1 job point.
+** The 1* [[Pub]] special "Pub Lunch" gives ''+3 Energy'' for 1 job point.
+** The 1* [[Restaurant]] special "Free Meals" gives ''+3 Energy'' for 1 job point.
+** The 7* [[Candle Shop]] special "Reinvigorating Therapy" gives ''+5 Energy'' for 1 job point.
+** The 10* [[Game Shop]] special "Overpowered" gives ''+5 Energy, +1 nerve, and +50 happiness'' for 1 job point.
+** The 10* [[Farm]] special "Early Riser" gives ''+7 Energy'' for 1 job point.
+** The 10* [[Television Network]] special [[Press Pass]] has a chance of granting ''300 energy'' for 25 job points. Unlike other energy-granting specials, this one is not limited to 100 JP per day. See the [[Press Pass]] page for additional details.
+*Each quarterly newsletter sent to the email address registered with your account contains a one-time use link that can be redeemed for 250 energy.
+*Clicking the T of the TORN logo during the [[Torn Anniversary]] event provides the user with 50 energy. This action has a cooldown of 15 minutes between uses and 10 total uses.
+*[[Green Easter Egg]] gives 500 energy when eaten and adds 6 hours of booster cooldown.
+*When exchanging your treats obtained from [[Trick or Treat]] event and when you have Tier III upgrade named "Dark Power", you'll receive +5 energy for every treat exchanged.
+* The Revitalize Bonus with advanced weapons can proc by the percentage of revitalize that the weapon has. A 19% revitalize will proc more frequently than a 12% revitalize for instance. (Proc = programmed random occurrence).
+* There are several books that can change the amount of energy you can receive while using the book, dependent on how they are used. The books are: Book: Higher Daddy Higher, Book: Self Control is for Losers, Book: Fuelling Your Way to Failure, Book: Ugly Energy, Book: Memories and Mammaries.
+
+*The maximum energy one can have at any moment is 1,000.
+
+== Using Energy ==
+
+
+There are numerous ways in which to spend your energy at various cost-levels:
+
+* You can train your [[Battle Stats]] in the [[Gym]]. Depending on the gym, each individual train may use between 5 - 50 energy.
+
+* You can [[Attacking|Attack]] another player at a cost of 25 energy.
+
+* You can [[Revive]] a player in [[Hospital]] at a cost of 25 - 75 energy, dependent on your faction's [[Factions#Fortitude|Fortitude]] upgrade branch.
+
+* You can search the [[Dump]] at a cost of 5 energy.
+
+* You can pray in the [[Church]] at a cost of 5 energy.
+
+* You can increase your [[Happiness]] by playing on a games console at a cost of 5 energy.
+
+* You can go [[Hunting]] in [[South Africa]] at a cost of 10 energy (and $500) per hunting session.
+
+== Losing Energy ==
+
+
+There are also multiple mechanics that may cause a loss of energy, if you currently have any:
+
+* Overdosing on certain drugs will cause your energy bar to be completely emptied.
+
+* Using the drug "Shrooms" will cost up to 25 energy, if you currently have that in your energy bar.
+
+* Opening a parcel that contains a Horse's Head will empty your energy bar.
+
+* Being hit by radiation poisoning from a [[Dirty Bomb]] will empty your energy bar.
+
+
+
+
+== Related Awards ==
+
+== Patch History ==
+
+{{Patch History|0}}
+
+== References ==
+
+<references />

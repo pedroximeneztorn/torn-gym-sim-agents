@@ -1,0 +1,521 @@
+<!-- Retrieved: 2026-01-03 from https://wiki.torn.com/wiki/Gym -->
+
+== About ==
+
+New players automatically join the [http://www.torn.com/wiki/Gym#Premier_Fitness Premier Fitness] gym.
+
+To find the Gym simply click [[Gym]] on your [[Sidebar]], or from the West-Side of the [[City]].
+
+There are thirty-three gyms in total, twenty-four "standard" gyms to progress to George's and nine special-use gyms. To unlock the new "standard" gyms all you have to do is train and pay the fee to open the new gym. You'll slowly gain gym EXP which will allow you to access new and better gyms. The next gym will be available for you once you have the required gym EXP to join. To join, click the [Activate] button next to the gyms name and click the Buy Membership button.
+
+All gyms have unique action text for each stat, for example: "You managed to complete 1 bicep curl using the 23kg dumbbells". You'll see this action text constantly improve as you increase your stats.
+
+Next to each stat, there are 10 individual bars (multipliers). How much you gain from each gym is indicated by how many bars are highlighted. For example, in the '''Global Gym''' each stat has 4 bars highlighted while '''Premier Fitness''' only has 2 bars highlighted for each stat.
+
+All gyms have a unique set of multipliers, some will provide more stats than others, some will not allow you to train certain stats at all. You can see the '''Gym Overview''' before you purchase a membership to see roughly what stats you'll be getting.
+
+Note for new players: The Defense gains in Crim's (the gym found in jail) are better than the Defense gains in any of the lightweight gyms. If you are a new player and find yourself in jail, consider training Defense in Crim's Gym. Once you reach the middleweight gym Pioneer Fitness there is no longer an advantage to using the jail gym.
+
+
+== Standard Gyms Overview ==
+
+* '''Note:''' In the API, the "Gains" are stored as a factor of 10 higher. E.g. for Premier Fitness, Strength is 20 rather than 2.0.
+
+=== Light-Weight Gyms ===
+
+<div style="overflow:auto;">
+{| class="wikitable sortable" style="text-align: center;"
+|- style="font-style: none; font-weight: bold; background-color:#CEDFF2; "
+| width="125" | Gym name
+| Cost to Unlock
+| Cost of One Train
+| width="50" | Strength gains
+| width="50" | Speed gains
+| width="50" | Defense gains
+| width="50" | Dex. gains
+| Estimate E for<br> next gym
+|-
+| Premier Fitness
+| $10
+| 5 energy
+| 2.0
+| 2.0
+| 2.0
+| 2.0
+| 200
+|-
+| Average Joes
+| $100
+| 5 energy
+| 2.4
+| 2.4
+| 2.7
+| 2.4
+| 500
+|-
+| Woody's Workout
+| $250
+| 5 energy
+| 2.7
+| 3.2
+| 3.0
+| 2.7
+| 1,000
+|-
+| Beach Bods
+| $500
+| 5 energy
+| 3.2
+| 3.2
+| 3.2
+| -
+| 2,000
+|-
+| Silver Gym
+| $1,000
+| 5 energy
+| 3.4
+| 3.6
+| 3.4
+| 3.2
+| 2,750
+|-
+| Pour Femme
+| $2,500
+| 5 energy
+| 3.4
+| 3.6
+| 3.6
+| 3.8
+| 3,000
+|-
+| Davies Den
+| $5,000
+| 5 energy
+| 3.7
+| -
+| 3.7
+| 3.7
+| 3,500
+|-
+| Global Gym
+| $10,000
+| 5 energy
+| 4.0
+| 4.0
+| 4.0
+| 4.0
+| 4,000
+|}
+</div>
+
+=== Middle-Weight Gyms ===
+
+<div style="overflow:auto;">
+{| class="wikitable sortable" style="text-align: center;"
+|- style="font-style: none; font-weight: bold; background-color:#CEDFF2; "
+| width="125" | Gym name
+| Cost to Unlock
+| Cost of One Train
+| width="50" | Strength gains
+| width="50" | Speed gains
+| width="50" | Defense gains
+| width="50" | Dex. gains
+| Estimate E for<br> next gym
+|-
+| Knuckle Heads
+| $50,000
+| 10 energy
+| 4.8
+| 4.4
+| 4.0
+| 4.2
+| 6,000
+|-
+| Pioneer Fitness
+| $100,000
+| 10 energy
+| 4.4
+| 4.6
+| 4.8
+| 4.4
+| 7,000
+|-
+| Anabolic Anomalies
+| $250,000
+| 10 energy
+| 5.0
+| 4.6
+| 5.2
+| 4.6
+| 8,000
+|-
+| Core
+| $500,000
+| 10 energy
+| 5.0
+| 5.2
+| 5.0
+| 5.0
+| 11,000
+|-
+| Racing Fitness
+| $1,000,000
+| 10 energy
+| 5.0
+| 5.4
+| 4.8
+| 5.2
+| 12,420
+|-
+| Complete Cardio
+| $2,000,000
+| 10 energy
+| 5.5
+| 5.7
+| 5.5
+| 5.2
+| 18,000
+|-
+| Legs, Bums and Tums
+| $3,000,000
+| 10 energy
+| -
+| 5.5
+| 5.5
+| 5.7
+| 18,100
+|-
+| Deep Burn
+| $5,000,000
+| 10 energy
+| 6.0
+| 6.0
+| 6.0
+| 6.0
+| 24,140
+|}
+</div>
+
+=== Heavy-Weight Gyms ===
+
+<div style="overflow:auto;">
+{| class="wikitable sortable" style="text-align: center;"
+|- style="font-style: none; font-weight: bold; background-color:#CEDFF2; "
+| width="125" | Gym name
+| Cost to Unlock
+| Cost of One Train
+| width="50" | Strength gains
+| width="50" | Speed gains
+| width="50" | Defense gains
+| width="50" | Dex. gains
+| Estimate E for<br> next gym
+|-
+| Apollo Gym
+| $7,500,000
+| 10 energy
+| 6.0
+| 6.2
+| 6.4
+| 6.2
+| 31,260
+|-
+| Gun Shop
+| $10,000,000
+| 10 energy
+| 6.5
+| 6.4
+| 6.2
+| 6.2
+| 36,610
+|-
+| Force Training
+| $15,000,000
+| 10 energy
+| 6.4
+| 6.5
+| 6.4
+| 6.8
+| 46,640
+|-
+| Cha Cha's
+| $20,000,000
+| 10 energy
+| 6.4
+| 6.4
+| 6.8
+| 7.0
+| 56,520
+|-
+| Atlas
+| $30,000,000
+| 10 energy
+| 7.0
+| 6.4
+| 6.4
+| 6.5
+| 67,775
+|-
+| Last Round
+| $50,000,000
+| 10 energy
+| 6.8
+| 6.5
+| 7.0
+| 6.5
+| 84,535
+|-
+| The Edge
+| $75,000,000
+| 10 energy
+| 6.8
+| 7.0
+| 7.0
+| 6.8
+| 106,305
+|-
+| George's**
+| $100,000,000
+| 10 energy
+| 7.3
+| 7.3
+| 7.3
+| 7.3
+| N/A
+|}
+</div>
+
+''** After unlocking George's, you will no longer gain any gym exp.''
+
+
+== Specialist Gyms & Requirements ==
+
+To unlock a Specialist Gym, you need to meet certain requirements. If you no longer meet those requirements, you will be kicked out, however, you will keep your membership and can rejoin once you have met the requirements again.
+
+{| class="wikitable"
+|- style="font-style:none;font-weight:bold; background-color:#cedff2; "
+| Gym name
+| style="text-align: center;" | Cost to unlock
+| style="text-align: center;" | Energy per train
+| style="text-align: center;" | Strength gains
+| style="text-align: center;" | Speed gains
+| style="text-align: center;" | Defense gains
+| style="text-align: center;" | Dex. gains
+|-
+| rowspan="2" style="background-color:#cedff2;" | Balboas Gym
+| style="text-align: center;" | $50,000,000
+| style="text-align: center;" | 25
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | 7.5
+| style="text-align: center;" | 7.5
+|-
+| colspan="6" | '''Requirements:''' Cha Cha's Unlocked; Defense + Dexterity 25% higher than Strength + Speed.
+|-
+| rowspan="2" style="background-color:#cedff2;" | Frontline Fitness
+| style="text-align: center;" | $50,000,000
+| style="text-align: center;" | 25
+| style="text-align: center;" | 7.5
+| style="text-align: center;" | 7.5
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| colspan="6" | '''Requirements:''' Cha Cha's Unlocked; Strength + Speed 25% higher than Dexterity + Defense
+|-
+| rowspan="2" style="background-color:#cedff2;" | Gym 3000
+| style="text-align: center;" | $100,000,000
+| style="text-align: center;" | 50
+| style="text-align: center;" | 8.0
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| colspan="6" | '''Requirements:''' George's unlocked; Strength 25% higher than your second highest stat
+|-
+| rowspan="2" style="background-color:#cedff2;" | Mr. Isoyamas
+| style="text-align: center;" | $100,000,000
+| style="text-align: center;" | 50
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | 8.0
+| style="text-align: center;" | -
+|-
+| colspan="6" | '''Requirements:''' George's unlocked; Defense 25% higher than your second highest stat
+|-
+| rowspan="2" style="background-color:#cedff2;" | Total Rebound
+| style="text-align: center;" | $100,000,000
+| style="text-align: center;" | 50
+| style="text-align: center;" | -
+| style="text-align: center;" | 8.0
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+|-
+| colspan="6" | '''Requirements:''' George's unlocked; Speed 25% higher than your second highest stat
+|-
+| rowspan="2" style="background-color:#cedff2;" | Elites
+| style="text-align: center;" | $100,000,000
+| style="text-align: center;" | 50
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | -
+| style="text-align: center;" | 8.0
+|-
+| colspan="6" | '''Requirements:''' George's unlocked; Dexterity 25% higher than your second highest stat
+|-
+| rowspan="2" style="background-color:#cedff2;" | The Sports Science Lab
+| style="text-align: center;" | $500,000,000
+| style="text-align: center;" | 25
+| style="text-align: center;" | 9.0
+| style="text-align: center;" | 9.0
+| style="text-align: center;" | 9.0
+| style="text-align: center;" | 9.0
+|-
+| colspan="6" | '''Requirements:''' Last Round unlocked; Maximum 150 Xanax and Ecstasy combined taken in total.<ref>Flare (01/01/2025){{f|16441365|Updating SSL requirements|2552040}}</ref>
+|-
+| rowspan="2" style="background-color:#cedff2;" | Fight Club
+| style="text-align: center;" | $2,147,483,647
+| style="text-align: center;" | 10
+| style="text-align: center;" | 10.0
+| style="text-align: center;" | 10.0
+| style="text-align: center;" | 10.0
+| style="text-align: center;" | 10.0
+|-
+| colspan="6" | '''Requirements:''' Well, unknown... "Membership by invite only"
+|}
+
+== Jail Gym (aka Crims Gym) ==
+
+Crims Gym can only be accessed from inside jail, and it is the only gym you can use while you are in jail.
+
+While in jail, you cannot refill your energy bar from [[Points Building]]. But you can take drugs like [[Xanax]] or use [[Energy drinks]].
+
+However, faction members can refill energy via the Armory points if they have been granted access to those actions by their faction leadership.
+
+<div style="overflow:auto;">
+{| class="wikitable sortable" style="text-align: center;"
+|- style="font-style: none; font-weight: bold; background-color:#CEDFF2; "
+| width="150" | Gym name
+| Cost to Unlock
+| Cost of One Train
+| width="50" | Strength gains
+| width="50" | Speed gains
+| width="50" | Defense gains
+| width="50" | Dex. gains
+|-
+| Jail Gym (Crims Gym)
+| Unlocked automatically
+| 5 energy
+| 3.4
+| 3.4
+| 4.6
+| -
+|-
+|}
+</div>
+
+== Related Awards ==
+
+There are three honor bars relating to the purchase of gym memberships;
+
+<div style="overflow:auto;" class="mw-collapsible mw-collapsed">
+'''Gyms'''
+{| class="wikitable mw-collapsible-content sortable" style="max-width: 100; height: auto;"
+!style="width:25%"|Honor Bar Image
+!style="width:22%"|Name
+!style="width:33%"|Requirements
+|-
+|{{AwrdImg|233|Bronze Belt}}||Bronze Belt||Own all lightweight gym memberships
+|-
+|{{AwrdImg|234|Silver Belt}}||Silver Belt||Own all middleweight gym memberships
+|-
+|{{AwrdImg|235|Gold Belt}}||Gold Belt||Own all heavyweight gym memberships
+|}
+</div>
+
+==Related Books==
+{{Related Books|Gym}}
+
+== Notes ==
+
+* More information about the certain stats and training is gathered in [[Battle Stats]] page.
+* The Darkk-DemonSkye Gym Guide can be found {{f|15908072|here}}.
+
+
+== Training Formulas ==
+
+Variables that affect stat growth:
+*Happiness
+*Gym (Gym Dots)
+*Energy
+*Faction Upgrades
+*Education
+*Company Specials
+
+=== Gym Gains Formula ===
+
+Currently the most accurate formula to predict your gym gains is:
+
+ *'''(Modifiers)*(Gym Dots)*(Energy Per Train)*[ (a*ln(Happy+b)+c) * (Stat Total) + d*(Happy+b) + e ]'''
+
+Where a, b, c, d & e are constants, estimated values below:
+* a = 3.480061091 x 10^-7
+* b = 250
+* c = 3.091619094 x 10^-6
+* d = 6.82775184551527 x 10^-5
+* e = -0.0301431777
+
+More information about this can be found in [https://www.torn.com/forums.php#!p=threads&f=61&t=16003284&b=0&a=0 this thread] by [https://www.torn.com/profiles.php?XID=1996140 Vladar]
+
+===Happy Loss===
+
+With each train, you will lose some happy. The amount of happy loss is 40-60% of the energy used per train. The happy loss wouldn't change with the source of the energy you used for training (natural/drugs/energy drinks/refills).
+
+ *Ex: (5 x 10 E trains) You used 50 energy and 27 happiness training your defense 5 times in Force Training increasing it by xxxxx to xxxxxxx
+
+==== Historical Notes ====
+
+When the cap on happiness was raised to 99,999 the formula changed entirely, this was the most accurate formula in the old system.
+
+The most accurate formula at the moment, according to Darkkk's Guide is:
+
+ *''((Gym Dots * 4) * ((0.00019106 * Stat) + (0.00226263 * Happy) + 0.55)) * (1 + Steadfast + Education Bonus) / 150 * Energy Used''
+
+'''**with the 0.006% - 0.169% margin of error.**'''
+
+
+== Gym Training Stat Cap Removal ==
+On 02/08/22 Chedburn announced the {{f|16288778|Stat cap removal}}:
+
+After many months of careful consideration, we have decided to remove the gym 'stat cap', a limit that halts the growth of gym gains after reaching 50,000,000 in a stat. Beyond this point, gym gains will now continue to increase at a steadily decreasing rate, allowing for controlled, exponential growth more comparable with the gains received from stat enhancers.
+
+Everyone should now notice their gym gains increasing slightly with every training session, however, this change only makes a meaningful difference to those who have stats in the multiple billions. Heavy stat enhancer usage still provides significant gains far quicker than anything else can when stats are in the billions, but gym training now has some relevance again for those who had previously abandoned it.
+
+I have provided some rough examples to express the scale of change that's happening. Instead of stat growth stagnating before 5b stats, some level of limited growth continues. We define heavy training as using 1500e every day with the happiness of a fully upgraded PI in George's gym, but without Steadfast.
+
+*Heavily training a 50m stat will yield 211.75% monthly growth, the same as before.
+*Heavily training a 100m stat will now yield 108.05% monthly growth instead of 103.35%.
+*Heavily training a 1b stat will now yield 12.87% monthly growth instead of 10.33%.
+*Heavily training a 5b stat will now yield 4.47% monthly growth instead of 2.07%.
+*Heavily training a 10b stat will now yield 3.37% monthly growth instead of 1.03%.
+*Heavily training a 50b stat will now yield 2.40% monthly growth instead of 0.21%.
+*Heavily training a 100b stat will now yield 2.24% monthly growth instead of 0.10%.
+*Heavily training a 500b stat will now yield 2.03% monthly growth instead of 0.02%.
+*Heavily training a 1t stat will now yield 1.97% monthly growth instead of 0.01%.
+
+There are several strong reasons for making this change...
+
+*Reducing the dependency on having to afford stat enhancers for end-game stat building.
+*More variation of player stats at the end-game for those who don't have access to stat enhancers.
+*The satisfaction of continued growth of gains per train, even if the difference isn't significantly meaningful to most.
+
+For further reading please also see the {{n|2336|related newspaper article}}
+
+
+== Patch History ==
+
+{{Patch History|0}}
+
+
+----
+
+{{city}}
